@@ -8,7 +8,7 @@
 
 namespace controllers;
 
-
+use models\JuntarModel;
 class JuntarController
 {
     /**
